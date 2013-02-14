@@ -1,0 +1,13 @@
+language: perl
+
+perl:
+  - "5.16"
+
+install:
+  - /bin/true
+
+script:
+  - /bin/true
+
+after_script:
+  - set -e
