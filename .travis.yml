@@ -10,5 +10,5 @@ script:
   - /bin/true
 
 after_script:
-  - set -e
+  - bash -c 'set -e'
 
