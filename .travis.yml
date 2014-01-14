@@ -10,5 +10,5 @@ script:
   - /bin/true
 
 after_script:
-  - cd
+  - /usr/bin/cd
 
