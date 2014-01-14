@@ -4,11 +4,11 @@ perl:
   - "5.16"
 
 install:
-  - /bin/true
+  - set -e
 
 script:
-  - /bin/true
+  - set -e
 
 after_script:
-  - /usr/bin/cd
+  - set -e
 
